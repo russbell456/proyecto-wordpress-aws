@@ -9,7 +9,7 @@
 * **Russbell Daniel Cari Mamani** - Consultor de Infraestructura Cloud, Automatización y Seguridad (Responsable de SonarCloud, Redes y Base de Datos).
 
 ## 📌 Problema Planteado y Alcance
-Comercial Nova es una empresa en crecimiento que requiere la implementación de un nuevo portal web corporativo utilizando WordPress en la nube de AWS. El proyecto tiene como alcance diseñar y desplegar una arquitectura altamente disponible, segura, escalable y con un monitoreo robusto, mitigando los costos mediante prácticas de optimización cloud.
+Comercial Nova es una empresa en crecimiento que requiere la implementación de un nuevo portal web corporativo utilizando WordPress en la nube de AWS. El proyecto tiene como alcance diseñar y desplegar una arquitectura altamente disponible, segura, escalable y con un monitoreo robusto, mitigando los costos mediante prácticas de optimizaciónes cloud.
 
 ## 🏗️ Arquitectura Propuesta
 La solución consta de una arquitectura multi-capa distribuida en múltiples Zonas de Disponibilidad (Multi-AZ):
